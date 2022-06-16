@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings by session. Links to e-texts
+  are provided where available.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
