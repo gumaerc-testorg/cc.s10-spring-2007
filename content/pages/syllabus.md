@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times, objectives, writing, oral presentations, attendance, exams, grading, and
+  the schedule of course topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 950eb6d7-df0c-74bc-a441-be1c2b7eadd6
 ---
@@ -38,7 +43,7 @@ Writing
 
 This is a HASS-CI (Humanities, Arts, and Social Sciences Communication Intensive) course. Like other communications-intensive courses in the humanities, arts, and social sciences, it allows students to produce 20 pages of polished writing in four assignments, with one required revision. It also offers a variety of possibilities for oral expression, through presentations of written work, student-led discussion, and oral reports. The class has a low enrollment that ensures maximum attention to written and oral communication.
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for detailed instructions for the written work.
+Please see {{% resource_link 008507df-7305-f656-64ef-3b91feb631f5 "assignments" %}} for detailed instructions for the written work.
 
 Oral Presentations/Reports
 --------------------------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings by session. Links to e-texts
+  are provided where available.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 761c1cb3-8fdc-e5d1-682c-f14e1a509a52
 ---
@@ -44,7 +49,7 @@ Introduction: On course themes and writing expectations
 {{< tdopen >}}
 Eating: Hunger, taste, and smell
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Rozin, P., and A. E. Fallon. "A Perspective on Disgust." _Psychological Review_ 94 (1987): 23-41. (The article's [abstract](https://www.ncbi.nlm.nih.gov/pubmed/3823304) is available.)
 {{< tdclose >}}
 
@@ -62,7 +67,7 @@ Disgust
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Bible
 {{< tdclose >}}
 {{< tdopen >}}
@@ -101,7 +106,7 @@ Bible as Literature
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Mary Rowlandson
 {{< tdclose >}}
 {{< tdopen >}}
@@ -146,7 +151,7 @@ Library research workshop
 {{< tdopen >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Kafka
 {{< tdclose >}}
 {{< tdopen >}}
