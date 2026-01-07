@@ -73,7 +73,7 @@ To frame and develop a valuable research question (i.e. an idea that requires an
 
 ## A Bibliographic Note
 
-There are many ways to cite your sources and these differ across disciplines. We will use MLA style: brief in-text citations, with a list of Works Cited at the end of the essay. For help using MLA style, see {{% resource_link "45090793-754f-46e5-8ce4-7d7584a23285" "The Mayfield Handbook of Technical and Scientific Writing" %}} (written by members of MIT's Writing Program). Or try the {{% resource_link "dc093259-a243-48b9-9826-e9aa53568211" "Purdue University Online Writing Lab (OWL)" %}}.
+There are many ways to cite your sources and these differ across disciplines. We will use MLA style: brief in-text citations, with a list of Works Cited at the end of the essay. For help using MLA style, see [The Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/doc-mla.htm) (written by members of MIT's Writing Program). Or try the [Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/resource/557/01/).
 
 ## In-Class Report
 
