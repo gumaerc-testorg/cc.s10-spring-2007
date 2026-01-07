@@ -12,8 +12,8 @@ image_metadata:
   caption: Costume design for Feste (the clown/fool) from Shakespeare's *Twelfth Night*,
     created for the Federal Theatre Project under the Works Progress Administration.
     Graphite and watercolor by Robert Byrne (1935). (Image courtesy of the Library
-    of Congress, {{% resource_link "5236e571-632a-4e8d-a684-934a82c479cf" "Federal
-    Theatre Project Collection" %}}, W.P.A. Transfer \[159.7\].)
+    of Congress, [Federal Theatre Project Collection](https://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/),
+    W.P.A. Transfer \[159.7\].)
   credit: Image courtesy of the Library of Congress, Federal Theatre Project Collection,
     W.P.A. Transfer \[159.7\]
   image-alt: Costume is red, black, and blue and includes a cape and baton.
